@@ -6,7 +6,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class Main {
-    private static final String API_URL = "https://api.telegram.org/bot7197799406:AAE_h0MQl7ViddGsl6sMAI_ww-GEFYGFZtw/";
+    private static final String API_URL = "https://api.telegram.org/botToken/";
     private static long lastUpdateId = 0;
 
     public static void main(String[] args) {
